@@ -3,7 +3,6 @@ import styles from "./Login.module.css";
 import { useEffect, useState } from "react";
 import { useAuth } from "../contexts/UserAuthenticationContext";
 import { useNavigate } from "react-router-dom";
-import Message from "../components/Message";
 
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
