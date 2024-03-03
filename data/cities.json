@@ -1,64 +1,37 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "fcb6",
+      "cityName": "Yongzhou",
+      "country": "China",
+      "date": "2024-03-02T19:08:37.728Z",
+      "notes": "China",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
+        "lat": "26.27371402440643",
+        "lng": "111.4453125"
+      }
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "id": "de72",
+      "cityName": "Illizi",
+      "country": "Algeria",
+      "date": "2024-03-02T21:12:40.038Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
+        "lat": "27.371767300523047",
+        "lng": "8.437500000000002"
+      }
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "2d2b",
+      "cityName": "Timbuktu",
+      "country": "Mali",
+      "date": "2024-03-02T21:12:44.121Z",
+      "notes": "s",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Barcelona",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 555555555
-    },
-    {
-      "cityName": "Floriada",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 88888888
+        "lat": "23.160563309048314",
+        "lng": "-2.8125"
+      }
     }
   ]
 }
