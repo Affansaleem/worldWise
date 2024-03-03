@@ -53,12 +53,12 @@ export default function Login() {
           <button
             type="primary"
             style={{
-              backgroundColor: "#00c46a", // Primary color
-              color: "#fff", // Text color
-              padding: "1rem 1rem", // Padding
-              border: "none", // No border
-              borderRadius: "0.5rem", // Rounded corners
-              cursor: "pointer", // Cursor style
+              backgroundColor: "#00c46a",
+              color: "#fff",
+              padding: "1rem 1rem",
+              border: "none",
+              borderRadius: "0.5rem",
+              cursor: "pointer",
             }}
           >
             LOGIN
